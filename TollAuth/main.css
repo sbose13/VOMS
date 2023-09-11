@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+main>div>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* h1 {
+    font-family: 'Baskervville', serif;
+    justify-content: center;
+    margin: 2% 4%;
+} */
+
+.spinner {
+    margin: 1%;
+    display: none;
+}
+
+.decom-div {
+    display: none;
+}
+
+.heading {
+    /* background: #e1eec3;
+    background: -webkit-linear-gradient(to right, #f05053, #e1eec3);
+    background: linear-gradient(to right, #f05053, #e1eec3); */
+
+    background: #aa4b6b;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    text-align: center;
+    padding: 5px;
+    margin-top: 2px;
+}
+
+.heading>h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2.5rem;
+    line-height: 90%;
+}
+
+#mapContainer {
+    margin: 5% auto 1%;
+}
+
+.notification-box {
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+.btn-group-utility {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 30%;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    text-align: center;
+}
+
+/* .vehicle-dashboard,
+.spinner-div {
+    display: none;
+} */
