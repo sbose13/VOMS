@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+img {
+    float: left;
+    max-width: 40vw;
+    max-height: 20vw;
+    display: block;
+    /* margin: 5% auto; */
+}
+
+main>div>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Baskervville', serif;
+    justify-content: center;
+    margin: 2% 4%;
+}
+
+.upper-container {
+    padding: 4%;
+}
+
+.lower-container {
+    padding: 2% 15%;
+    margin-bottom: -5%;
+}
+
+#progress-bar {
+    display: none;
+}
+
+
+.heading {
+    background: #e1eec3;
+    background: -webkit-linear-gradient(to right, #f05053, #e1eec3);
+    background: linear-gradient(to right, #f05053, #e1eec3);
+    text-align: center;
+    padding: 5px;
+    margin-top: 2px;
+}
+
+.heading>h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2.5rem;
+    line-height: 90%;
+}
+
+input[type="range"] {
+    padding: 1% 15% 2%;
+}
+
+.btn-rc-display {
+    float: right;
+}
+
+#speedometer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mapContainer {
+    margin: 10% auto 1%;
+}
+
+.vehicle-dashboard,
+.spinner-div {
+    display: none;
+}
