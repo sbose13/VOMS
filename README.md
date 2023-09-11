@@ -18,7 +18,7 @@ Now the information that is shared by the IoV needs to be secured and trustworth
 
 Let's assume that a vehicle is overspeeding and/or recklessly driving. Our aim is to notify and alert other vehicles nearby about the presence of a rogue vehicle so that they can be more aware of the situation and avoid any possible accident or actively take necessary steps to be on the safer side such as making sure that they have seat belts tied on, or slowing down their vehicle, or stopping the vehicle completely. We also want to make sure that the overspeeding vehicle is caught as soon as possible, thus we also aim to notify nearby checkpoints or Toll Naka where the vehicle can be caught and further legal and precautionary actions can be taken.
 
-Our proposed model (Shown in Fig. 2) for dealing with overspeeding vehicles using Blockchain assisted IoV can be primarily divided into three sections:
+Our proposed model (Shown in Figure) for dealing with overspeeding vehicles using Blockchain assisted IoV can be primarily divided into three sections:
 ●	Detecting a vehicle is overspeeding
 ●	Making entries into the public ledger with information about the overspeeding vehicle.
 ●	Alert mechanism, that works with the help of smart contracts of Blockchain.
@@ -47,7 +47,7 @@ The information about the overspeeding vehicle will be uploaded in the form of a
 
 # Flowchart
 
-The algorithm of this complete process from detection of a overspeeding vehicle to alert system and eventually catching the overspeeding vehicle is represented in the form of a flowchart in Fig. 3 given as follows:
+The algorithm of this complete process from detection of a overspeeding vehicle to alert system and eventually catching the overspeeding vehicle is represented in the form of a flowchart in Figure given as follows:
 
  
 ![image](https://github.com/sbose13/VOMS/assets/114461661/2a2a9931-cf63-4745-bc12-3bec961fe00a)
@@ -55,7 +55,7 @@ The algorithm of this complete process from detection of a overspeeding vehicle 
 Flowchart showing the complete working process of the proposed model
 # Blockchain Node Network For Proposed Model
 
-The Nodes are the core of the Blockchain structure. The Nodes participate in the Blockchain network and thus validate the data transactions that happen on the network. This is what makes the Blockchain Network decentralized and secure. The Node network for our proposed model is shown in Fig. 4.
+The Nodes are the core of the Blockchain structure. The Nodes participate in the Blockchain network and thus validate the data transactions that happen on the network. This is what makes the Blockchain Network decentralized and secure. The Node network for our proposed model is shown in Figure.
 
 ![image](https://github.com/sbose13/VOMS/assets/114461661/046e48d2-b039-4665-a343-8ff3a85abaf5)
 
