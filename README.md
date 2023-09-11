@@ -24,7 +24,8 @@ Our proposed model (Shown in Fig. 2) for dealing with overspeeding vehicles usin
 ●	Alert mechanism, that works with the help of smart contracts of Blockchain.
 
 
- 
+![image](https://github.com/sbose13/VOMS/assets/114461661/cf65c306-998c-4064-b54b-35d6f49e8baf)
+
 Diagram showing the working of the proposed model
 
 # Detection
@@ -49,12 +50,15 @@ The information about the overspeeding vehicle will be uploaded in the form of a
 The algorithm of this complete process from detection of a overspeeding vehicle to alert system and eventually catching the overspeeding vehicle is represented in the form of a flowchart in Fig. 3 given as follows:
 
  
+![image](https://github.com/sbose13/VOMS/assets/114461661/2a2a9931-cf63-4745-bc12-3bec961fe00a)
 
 Flowchart showing the complete working process of the proposed model
 # Blockchain Node Network For Proposed Model
 
 The Nodes are the core of the Blockchain structure. The Nodes participate in the Blockchain network and thus validate the data transactions that happen on the network. This is what makes the Blockchain Network decentralized and secure. The Node network for our proposed model is shown in Fig. 4.
- 
+
+![image](https://github.com/sbose13/VOMS/assets/114461661/046e48d2-b039-4665-a343-8ff3a85abaf5)
+
 Node Network of Proposed model
 
 
