@@ -71,6 +71,21 @@ These Nodes in the proposed model are all essential parts of the Blockchain. The
 
 When a vehicle over speeds, it logs the data using RSUs through the cloud into the Central Information Centre, as denoted by the directional arrows 1 & 2. The Central Information Centre verifies and processes the data to determine that the vehicle is indeed speeding and then sends data back to other vehicles for the alert mechanism to work, as denoted by arrows 3 & 4. The data is also sent back to nearby Infrastructures such as Checkpoint and then eventually RTOs to take necessary action based on this. This is denoted by arrows 5 & 6. 
 
+# Final Look of the Project
+![image](https://github.com/sbose13/VOMS/assets/114461661/636ba571-eee5-4928-a5e6-67f42a6b20d9)
+![image](https://github.com/sbose13/VOMS/assets/114461661/eee9d8fa-8c44-4e05-84d7-0168b4859fbb)
+![image](https://github.com/sbose13/VOMS/assets/114461661/cfcc7945-c1b8-4f9d-94d2-2c377494d63d)
+![image](https://github.com/sbose13/VOMS/assets/114461661/1ef7fdaa-45eb-47e4-8fb1-1ff09bdc0b9a)
+![image](https://github.com/sbose13/VOMS/assets/114461661/a0ae5a65-236e-46cc-9966-04a10784b57d)
+![image](https://github.com/sbose13/VOMS/assets/114461661/c81e3a09-c22b-4153-bf6b-d213bdf913b6)
+![image](https://github.com/sbose13/VOMS/assets/114461661/87ac2dba-8a26-42b9-91c5-a117baab6fb6)
+
+
+
+
+
+
+
 
 # Full Documentation Link
 https://drive.google.com/file/d/1fDiI5AgQWq9JwuNEt333L1n0KBHBAwN4/view?usp=drive_link
