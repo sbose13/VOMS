@@ -1,4 +1,4 @@
-## Proposed Work
+# Proposed Work
 
 # Problem Statement
 
