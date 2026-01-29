@@ -24,7 +24,7 @@ Our proposed model (Shown in Figure) for dealing with overspeeding vehicles usin
 ●	Alert mechanism, that works with the help of smart contracts of Blockchain.
 
 
-![image](https://drive.google.com/file/d/17TBZtURrBwmyFGgdcgQCZbOhmnQ6A3ab/view?usp=drive_link)
+![Alt text](https://drive.google.com/file/d/17TBZtURrBwmyFGgdcgQCZbOhmnQ6A3ab/view?usp=drive_link)
 
 Diagram showing the working of the proposed model
 
